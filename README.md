@@ -1,6 +1,7 @@
 # File-Cleanup-Python
 file cleanup python
 This script is designed to automatically move files from the Downloads folder to a separate folder named to_delete if they have not been modified for more than a year (365 days). This helps in organizing and decluttering the Downloads folder by removing older unused files.
+
 Steps:-
 1.The script sets the Downloads folder path explicitly using:
 folder_path = r"C:\\Users\\Downloads"
